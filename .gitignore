@@ -1,0 +1,4 @@
+.env
+dockerfile
+REST_API.rest
+node_modules
